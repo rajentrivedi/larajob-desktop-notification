@@ -35,3 +35,10 @@ To run the project
 	php artisan websockets:serve
 	php artisan native:install
 	npm run dev
+```
+
+[Thank You Marcel Pociot ](https://github.com/mpociot)
+
+
+
+
